@@ -1,0 +1,57 @@
+Render CH4-P024 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH4-024-art.png, IAKESI-CH4-024-lettering.png, and IAKESI-CH4-024-text.txt.
+ARTWORK FILE — IAKESI-CH4-024-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH4-024-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH4-024-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Zoran-mana-crystals-production-sheet.png, Assets/Zora-mana-effects-sheet.png, Assets/Zorna-character-sheet.png, Assets/Zorna-expression-sheet.png, Assets/Zorna-canonical-character-specification.txt.
+Canonical character identity:
+- Zorna: BINDING VISUAL IDENTITY: match the canonical character reference images exactly for face, proportions, hair geometry, ears, body type, colors, and the costume state specified here. Use these images for DESIGN/IDENTITY, not for rendering style; translate the design into the binding page rendering style: Assets/Zorna-character-sheet.png apparent age: Young adult; hair: Platinum blonde. The platinum-blonde color is immutable and; build: Tall, graceful, athletic/slender. Feminine figure with a moderate; face: Refined oval face with a relatively narrow jaw. Mature and; ears: Normal human-shaped ears. Neither pointed nor elongated. Never; skin: Fair binding hairstyle: Platinum blonde. The platinum-blonde color is immutable and plot-critical. Her hair is extremely long, extending approximately to the thighs or upper calves. Its defining feature is an abundance of large, tight corkscrew/drill curls. The curls create a distinctive, high-volume silhouette from the front, side, and back. Some hair may be pulled back from the face while the majority falls freely. The hairstyle must remain recognizably Zorna’s and must not degrade into ordinary straight, loosely wavy, or generic long blonde hair. Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Print-production geometry:
+- AI RENDER-SAFE TARGET: x=111..850, y=111..1424. Aim all critical content inside this smaller target.
+- Use the attached visual composition guide as the PRIMARY spatial reference when present. Never reproduce that guide in finished artwork.
+- SAFE CONTENT RECTANGLE — BINDING: x=63..898, y=63..1472; page side=verso; binding side=right.
+- Production-area geometry is invisible but BINDING composition geometry. Do NOT draw trim/safe/bleed guides in the finished page.
+- Every complete speech-balloon body, thought-balloon body, narration box, caption, face, and continuity-critical prop must remain wholly inside the safe-content rectangle. Balloon/thought tails may extend toward speakers when necessary. Page folios are prohibited.
+- Background and noncritical artwork may extend outside the safe rectangle through trim/bleed.
+- Before rendering, preflight critical-content placement. If any critical body would cross the safe rectangle, reflow/reposition it first; automatic placement does not waive this requirement.
+
+Panel 1:
+- Panel direction (not printed text): Dream material must read as luminous and otherworldly, with controlled golden-white radiance and deep but readable shadows; do not reproduce the old PDF’s near-black exposure.
+- Setting: The red-eyed mage collapses.
+- Camera: 50mm medium narrative framing; maintain the established dialogue axis.
+- Scene: The red-eyed mage collapses.
+- Blocking: Zoran mages.
+- CH4-P024-S1-N1: rectangular narration box, no speech tail: “The vision continued, revealing the danger of exceeding the body’s safe mana capacity.”
+
+Panel 2:
+- Panel direction (not printed text): Dream material must read as luminous and otherworldly, with controlled golden-white radiance and deep but readable shadows; do not reproduce the old PDF’s near-black exposure.
+- Setting: Light mages rush to him. Healing magic.
+- Camera: 28–50mm narrative action framing; maintain a clear action vector and readable cause-and-effect.
+- Scene: Light mages rush to him. Healing magic.
+- Blocking: Zoran mages.
+
+Panel 3:
+- Panel direction (not printed text): Dream material must read as luminous and otherworldly, with controlled golden-white radiance and deep but readable shadows; do not reproduce the old PDF’s near-black exposure.
+- Setting: The eyes return to blue.
+- Camera: 70–100mm close-up; prioritize the specified detail and facial/hand acting.
+- Scene: The eyes return to blue.
+
+Panel 4:
+- Panel direction (not printed text): Dream material must read as luminous and otherworldly, with controlled golden-white radiance and deep but readable shadows; do not reproduce the old PDF’s near-black exposure.
+- Setting: Zorna watches.
+- Camera: 50mm medium narrative framing; maintain the established dialogue axis.
+- Scene: Zorna watches.
+- Blocking: Zorna.
+- Characters: Zorna.
+
+Panel 5:
+- Panel direction (not printed text): Dream material must read as luminous and otherworldly, with controlled golden-white radiance and deep but readable shadows; do not reproduce the old PDF’s near-black exposure.
+- Camera: 50mm medium narrative framing; maintain the established dialogue axis.
+- Blocking: Zorna.
+- Characters: Zorna.
+- CH4-P024-S5-D1: zorna, speech balloon (one speaker tail): “Power has a price.”
+
+Story lettering rule: use exactly the 2 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH4-024-art.png and IAKESI-CH4-024-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
